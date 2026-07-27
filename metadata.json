@@ -1,0 +1,6 @@
+{
+  "name": "HomeLink",
+  "description": "Find verified homes and meet verified landlords with AI scam detection and no-deposit-before-viewing safety.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
